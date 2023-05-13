@@ -5,3 +5,7 @@
 ```
 Console.Writeline("Howdy Y'all");
 ```
+## Todo (task list)
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Share with coworkers
